@@ -1,5 +1,4 @@
-# $Id: PKGBUILD 56119 2011-10-02 02:52:32Z ebelanger $
-# Maintainer: Sergej Pupykin <pupykin.s+arch@gmail.com>
+# Maintainer: Brian Knox <taotetek@gmail.com>
 
 pkgname=rsyslog-zmq
 _basepkgname=rsyslog
